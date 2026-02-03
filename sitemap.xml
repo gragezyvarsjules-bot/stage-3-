@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://github.com/gragezyvarsjules-bot/stage-3-/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://gragezyvarsjules-bot.github.io/stage-3-/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://github.com/gragezyvarsjules-bot/stage-3-/</loc>
+<loc>https://gragezyvarsjules-bot.github.io/stage-3-/</loc>
 </url>
 <url>
-<loc>https://github.com/gragezyvarsjules-bot/stage-3-/acme-une-entreprise-qui-a-12ans.html</loc>
+<loc>https://gragezyvarsjules-bot.github.io/stage-3-/acme-une-entreprise-qui-a-12ans.html</loc>
 <lastmod>2026-02-03T10:48:15+01:00</lastmod>
 </url>
 </urlset>

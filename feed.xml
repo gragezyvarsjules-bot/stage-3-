@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Stage 3e</title>
-    <link href="https://github.com/gragezyvarsjules-bot/stage-3-/feed.xml" rel="self" />
-    <link href="https://github.com/gragezyvarsjules-bot/stage-3-" />
+    <link href="https://gragezyvarsjules-bot.github.io/stage-3-/feed.xml" rel="self" />
+    <link href="https://gragezyvarsjules-bot.github.io/stage-3-" />
     <updated>2026-02-03T10:48:15+01:00</updated>
     <author>
         <name>Jules Y.</name>
     </author>
-    <id>https://github.com/gragezyvarsjules-bot/stage-3-</id>
+    <id>https://gragezyvarsjules-bot.github.io/stage-3-</id>
 
     <entry>
         <title>Acme une entreprise qui a 12ans </title>
         <author>
             <name>Jules Y.</name>
         </author>
-        <link href="https://github.com/gragezyvarsjules-bot/stage-3-/acme-une-entreprise-qui-a-12ans.html"/>
-        <id>https://github.com/gragezyvarsjules-bot/stage-3-/acme-une-entreprise-qui-a-12ans.html</id>
+        <link href="https://gragezyvarsjules-bot.github.io/stage-3-/acme-une-entreprise-qui-a-12ans.html"/>
+        <id>https://gragezyvarsjules-bot.github.io/stage-3-/acme-une-entreprise-qui-a-12ans.html</id>
 
         <updated>2026-02-03T10:48:15+01:00</updated>
             <summary type="html">
