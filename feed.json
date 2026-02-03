@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Stage 3e",
+    "description": "",
+    "home_page_url": "https://github.com/gragezyvarsjules-bot/stage-3-",
+    "feed_url": "https://github.com/gragezyvarsjules-bot/stage-3-/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Jules Y."
+    },
+    "items": [
+        {
+            "id": "https://github.com/gragezyvarsjules-bot/stage-3-/acme-une-entreprise-qui-a-12ans.html",
+            "url": "https://github.com/gragezyvarsjules-bot/stage-3-/acme-une-entreprise-qui-a-12ans.html",
+            "title": "Acme une entreprise qui a 12ans ",
+            "summary": "Acme est une entreprise d'informatique elle a commencé en petit commité dans la start-up et aprés elle est devenu une entreprise beaucoup plus importante , elle compte aujourd'hui plus de 800 employés.",
+            "content_html": "<p>Acme est <span style=\"color: #000000;\">u<a></a>ne</span> entreprise d'informatique elle a commencé en petit commité dans la start-up et aprés elle est devenu une entreprise beaucoup plus importante , elle compte aujourd'hui plus de 800 employés.  </p>",
+            "author": {
+                "name": "Jules Y."
+            },
+            "tags": [
+            ],
+            "date_published": "2026-02-03T10:48:15+01:00",
+            "date_modified": "2026-02-03T10:48:15+01:00"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Stage 3e</title>
+    <link href="https://github.com/gragezyvarsjules-bot/stage-3-/feed.xml" rel="self" />
+    <link href="https://github.com/gragezyvarsjules-bot/stage-3-" />
+    <updated>2026-02-03T10:48:15+01:00</updated>
+    <author>
+        <name>Jules Y.</name>
+    </author>
+    <id>https://github.com/gragezyvarsjules-bot/stage-3-</id>
+
+    <entry>
+        <title>Acme une entreprise qui a 12ans </title>
+        <author>
+            <name>Jules Y.</name>
+        </author>
+        <link href="https://github.com/gragezyvarsjules-bot/stage-3-/acme-une-entreprise-qui-a-12ans.html"/>
+        <id>https://github.com/gragezyvarsjules-bot/stage-3-/acme-une-entreprise-qui-a-12ans.html</id>
+
+        <updated>2026-02-03T10:48:15+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Acme est une entreprise d'informatique elle a commencé en petit commité dans la start-up et aprés elle est devenu une entreprise beaucoup plus importante , elle compte aujourd'hui plus de 800 employés.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Acme est <span style="color: #000000;">u<a></a>ne</span> entreprise d'informatique elle a commencé en petit commité dans la start-up et aprés elle est devenu une entreprise beaucoup plus importante , elle compte aujourd'hui plus de 800 employés.  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
