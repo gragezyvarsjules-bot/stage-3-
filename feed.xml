@@ -3,30 +3,10 @@
     <title>Stage 3e</title>
     <link href="https://gragezyvarsjules-bot.github.io/stage-3-/feed.xml" rel="self" />
     <link href="https://gragezyvarsjules-bot.github.io/stage-3-" />
-    <updated>2026-02-03T11:14:07+01:00</updated>
+    <updated>1970-01-01T01:00:00+01:00</updated>
     <author>
         <name>Jules Y.</name>
     </author>
     <id>https://gragezyvarsjules-bot.github.io/stage-3-</id>
 
-    <entry>
-        <title>Developer Frontend</title>
-        <author>
-            <name>Jules Y.</name>
-        </author>
-        <link href="https://gragezyvarsjules-bot.github.io/stage-3-/developer-frontend.html"/>
-        <id>https://gragezyvarsjules-bot.github.io/stage-3-/developer-frontend.html</id>
-
-        <updated>2026-02-03T11:14:07+01:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    Un developper frontend est chargé de ...
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Un developper frontend est chargé de ...</p>
-            ]]>
-        </content>
-    </entry>
 </feed>

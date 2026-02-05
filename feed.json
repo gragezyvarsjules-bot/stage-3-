@@ -9,19 +9,5 @@
         "name": "Jules Y."
     },
     "items": [
-        {
-            "id": "https://gragezyvarsjules-bot.github.io/stage-3-/developer-frontend.html",
-            "url": "https://gragezyvarsjules-bot.github.io/stage-3-/developer-frontend.html",
-            "title": "Developer Frontend",
-            "summary": "Un developper frontend est chargé de ...",
-            "content_html": "<p>Un developper frontend est chargé de ...</p>",
-            "author": {
-                "name": "Jules Y."
-            },
-            "tags": [
-            ],
-            "date_published": "2026-02-03T11:14:07+01:00",
-            "date_modified": "2026-02-03T11:14:07+01:00"
-        }
     ]
 }
