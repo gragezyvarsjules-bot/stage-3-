@@ -1,3 +1,2 @@
 User-agent: *
-Disallow:
-Sitemap: https://gragezyvarsjules-bot.github.io/stage-3-/sitemap.xml
+Disallow: /
